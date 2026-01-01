@@ -9,10 +9,5 @@ JWT_ENCODING_ALGORITHM = "HS256"
 AUTHORIZATION_HEADER_KEY = "markwave"
 DEV_API_URL = "https://www.fast2sms.com/dev/bulkV2"
 
-SMTP_EMAIL = "kalyantechpro@gmail.com"
-SMTP_PASSWORD = "dkuu hrzs jnkv zigi"
-
 ADMIN_ACCESS_EMAILS = ["kalyanontipuli1234@gmail.com"]
 
-CASHFREE_API_KEY = "TEST10514947a0db3b6ed5d0b69b033e74941501"
-CASHFREE_WEBHOOK_SECRET = "cfsk_ma_test_03c6c8ef8b36c457715f6c2a0572c0a6_90af9aef"
